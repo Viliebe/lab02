@@ -3,5 +3,5 @@
 using namespace std;
 
 main(){
-    cout<<"goodbye test"
+    cout<<"hello test"
 }
