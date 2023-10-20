@@ -1,5 +1,6 @@
 #include <iostream>
-//Здесь мог быть ваш using namespace std;
 main(){
-    cout<<"hello test"
+    string name;
+    cin>>name;
+    cout<<" hello world from "+name;
 }
