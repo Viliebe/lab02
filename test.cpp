@@ -1,6 +1,5 @@
 #include <iostream>
-//comment for comment for idk
-using namespace std;
+//Comment for commentor
 int main(){
     string name;
     cin>>name;
